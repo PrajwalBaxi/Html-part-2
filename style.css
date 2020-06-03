@@ -1,0 +1,10 @@
+.img{
+    border-style: double;
+    border-color: black;
+}
+
+.a {
+        background-color: cyan;
+    display:flex;
+    justify-content:space-between;  
+}    
